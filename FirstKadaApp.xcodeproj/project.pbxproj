@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AF2F65E3246C2D2E00038CE8 /* FirstKadaApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstKadaApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AF2F65E3246C2D2E00038CE8 /* FirstKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF2F65E6246C2D2E00038CE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AF2F65E8246C2D2E00038CE8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		AF2F65EA246C2D2E00038CE8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		AF2F65E4246C2D2E00038CE8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AF2F65E3246C2D2E00038CE8 /* FirstKadaApp.app */,
+				AF2F65E3246C2D2E00038CE8 /* FirstKadaiApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = FirstKadaApp;
 			productName = FirstKadaApp;
-			productReference = AF2F65E3246C2D2E00038CE8 /* FirstKadaApp.app */;
+			productReference = AF2F65E3246C2D2E00038CE8 /* FirstKadaiApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -291,7 +291,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kazuki.FirstKadaApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = FirstKadaiApp;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +308,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kazuki.FirstKadaApp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = FirstKadaiApp;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
